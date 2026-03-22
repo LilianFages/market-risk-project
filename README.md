@@ -14,7 +14,7 @@ This repository contains the final PDF report for the **Market Risk Project** co
 
 ## Project overview
 
-This report applies the main tools introduced in the **Market Risk** course to real financial datasets. It focuses on one-day market risk measurement, tail-risk modeling, liquidity effects, and multiscale dependence. The project combines both statistical and economic interpretations, moving from non-parametric risk estimation to extreme-value methods and market microstructure analysis. :contentReference[oaicite:1]{index=1}
+This report applies the main tools introduced in the **Market Risk** course to real financial datasets. It focuses on one-day market risk measurement, tail-risk modeling, liquidity effects, and multiscale dependence. The project combines both statistical and economic interpretations, moving from non-parametric risk estimation to extreme-value methods and market microstructure analysis.
 
 ## Main topics covered
 
@@ -28,7 +28,7 @@ The report is structured around several questions and covers the following topic
 - **Bouchaud’s price impact model**, including estimation of transient price impact and volume dependence
 - **Multiresolution correlations** based on **Haar wavelets**
 - Analysis of the **Epps effect**
-- **Hurst exponent estimation** and **annualized volatility scaling** beyond the Brownian benchmark :contentReference[oaicite:2]{index=2}
+- **Hurst exponent estimation** and **annualized volatility scaling** beyond the Brownian benchmark
 
 ## Report structure
 
@@ -42,11 +42,11 @@ The document contains:
    - Question D: Bouchaud price impact model
    - Question E(a): multiresolution correlations and Epps effect
    - Question E(b): Hurst exponents and annualized volatilities
-3. **Conclusion** :contentReference[oaicite:3]{index=3}
+3. **Conclusion**
 
 ## Key takeaway
 
-A central conclusion of the report is that **no single method is sufficient for a comprehensive market risk assessment**. The project shows that non-parametric VaR, Expected Shortfall, EVT-based tail modeling, liquidity analysis, and multiscale methods all provide complementary information and should be combined for a more robust view of financial risk. :contentReference[oaicite:4]{index=4}
+A central conclusion of the report is that **no single method is sufficient for a comprehensive market risk assessment**. The project shows that non-parametric VaR, Expected Shortfall, EVT-based tail modeling, liquidity analysis, and multiscale methods all provide complementary information and should be combined for a more robust view of financial risk.
 
 ## Repository purpose
 
